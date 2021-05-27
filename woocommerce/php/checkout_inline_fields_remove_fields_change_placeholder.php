@@ -1,3 +1,4 @@
+<?php
 // WC - Checkout - Inline Fields / Remove Fields / Change Placeholder
 
 add_filter('woocommerce_checkout_fields', 'custom_checkout_billing_fields', 20, 1);
@@ -47,3 +48,4 @@ $fields['shipping']['shipping_phone']['placeholder'] = __('Telefonnummer (option
 
 return $fields;
 }
+?>

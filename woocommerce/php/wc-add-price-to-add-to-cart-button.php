@@ -1,3 +1,4 @@
+<?php
 add_filter( 'woocommerce_product_add_to_cart_text', 'custom_shop_page_add_to_cart', 20, 2 ); // Shop and other archives pages
 function custom_shop_page_add_to_cart( $button_text, $product ) {
     // Variable products
@@ -112,3 +113,4 @@ var globPrice = 0;
         return $product_price . 'hinzufügen';
     }
 }
+?>

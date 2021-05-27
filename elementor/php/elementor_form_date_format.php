@@ -8,5 +8,4 @@ add_action('wp_footer', function () {
             }, 1000 );
       });
       </script>
-      <?php
 });

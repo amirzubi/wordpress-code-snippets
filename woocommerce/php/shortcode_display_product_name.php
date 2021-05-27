@@ -1,3 +1,4 @@
+<?php
 // WC - Add Shortcode - Display Product Name
 function displayProductName($item) {
     $productName = get_the_title($item['id']);
@@ -5,3 +6,4 @@ function displayProductName($item) {
 }
 
 add_shortcode('product_name', 'displayProductName');
+?>

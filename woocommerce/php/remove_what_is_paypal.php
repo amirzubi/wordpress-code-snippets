@@ -1,3 +1,4 @@
+<?php
 // WC - Remove "What is PayPal?"
 add_filter( 'woocommerce_gateway_icon', 'bbloomer_remove_what_is_paypal', 10, 2 );
  
@@ -7,3 +8,4 @@ if( 'paypal' == $gateway_id ) {
 }
 return $icon_html;
 }
+?>

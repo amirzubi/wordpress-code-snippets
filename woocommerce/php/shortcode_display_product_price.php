@@ -1,3 +1,4 @@
+<?php
 // WC - Add Shortcode - Display Product Price
 function displayProductPrice( $atts ) {
 	$atts = shortcode_atts( array(
@@ -18,3 +19,4 @@ function displayProductPrice( $atts ) {
 }
  
 add_shortcode( 'product_price', 'displayProductPrice' );
+?>
