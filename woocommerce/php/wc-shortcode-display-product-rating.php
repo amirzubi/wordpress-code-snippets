@@ -19,7 +19,5 @@ function displayProductRating( $atts ) {
     endif;
 
    	echo wc_get_rating_html( $average, $rating_count );
-
-
 }
 ?>
