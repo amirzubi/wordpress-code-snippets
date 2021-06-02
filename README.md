@@ -1,6 +1,6 @@
 # Wordpress Code Snippets
 
-This Repository is a collection of code snippets for Wordpress and its plugins.
+This Repository contains a collection of code snippets for Wordpress and its plugins.
 
 ## 1. Categories
 
