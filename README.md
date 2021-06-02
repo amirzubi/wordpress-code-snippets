@@ -4,13 +4,13 @@ This Repository is a collection of code snippets for Wordpress and its plugins.
 
 ## 1. Categories
 
-### 1.1 Wordpress
+### 1.1. Wordpress
 
 - [Add translations](/wordpress/php/wp-translations.php)
 - [Change wp-admin logo](/wordpress/php/wp-change-wp-admin-logo.php)
 - [Disable admin bar for all users](/wordpress/php/wp-disable-admin-bar-for-all-users.php)
 
-### 1.2 Woocommerce
+### 1.2. Woocommerce
 
 #### 1.2.1. General
 
@@ -21,7 +21,7 @@ This Repository is a collection of code snippets for Wordpress and its plugins.
 
 - [Remove links from the thumbnail image on the single product page](/woocommerce/php/wc-remove-links-from-single-product-image-thumbnails.php)
 
-#### 1.2.3. Cart
+#### 1.2.3 Cart
 
 - [Amount left for free shipping notice in the cart](/woocommerce/php/wc-amount-left-for-free-shipping-notice.php)
 - [Remove subtotal on the cart page](/woocommerce/php/wc-remove-subtotal.php)
@@ -34,13 +34,13 @@ This Repository is a collection of code snippets for Wordpress and its plugins.
 - [Delete the additional order information field on the checkout page](/woocommerce/php/wc-delete-additional-order-informations.php)
 - [Remove the "What is PayPal?" notice on the checkout page](/woocommerce/php/wc-remove-what-is-paypal.php)
 
-#### 1.2.5 Shortcodes
+#### 1.2.5. Shortcodes
 
 - [Add a shortcode to display the product name](/woocommerce/php/wc-shortcode-display-product-name.php)
 - [Add a shortcode to display the product price](/woocommerce/php/wc-shortcode-display-product-price.php)
 - [Add a shortcode to display the product rating](/woocommerce/php/wc-shortcode-display-product-rating.php)
 
-### 1.3 Elementor
+### 1.3. Elementor
 
 - [Change the date format in elementor forms](/elementor/php/elementor-form-date-format.php)
 
