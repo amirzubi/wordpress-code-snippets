@@ -53,7 +53,3 @@ Add the PHP-Code to your functions.php file in your child-theme or download the 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## References
-
-following
