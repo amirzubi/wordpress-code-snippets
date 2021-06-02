@@ -6,7 +6,7 @@ This Repository is a collection of code snippets for Wordpress and its plugins.
 
 ### 1.1 Wordpress
 
-[Change WP-Admin Logo](../wordpress/php/wp-change-wp-admin-logophp)
+[Change WP-Admin Logo](../wordpress/php/wp-change-wp-admin-logo.php)
 
 ### 1.2 Woocommerce
 
