@@ -9,6 +9,7 @@ This Repository is a collection of code snippets for Wordpress and its plugins.
 - [Add translations](/wordpress/php/wp-translations.php)
 - [Change wp-admin logo](/wordpress/php/wp-change-wp-admin-logo.php)
 - [Disable admin bar for all users](/wordpress/php/wp-disable-admin-bar-for-all-users.php)
+- [Disable GetLocation on specific pages](/wordpress/php/wp-disable-getlocation.php)
 
 ### 1.2. Woocommerce
 
@@ -16,6 +17,8 @@ This Repository is a collection of code snippets for Wordpress and its plugins.
 
 - [Add price to the Add-To-Cart-Button](/woocommerce/php/wc-add-price-to-add-to-cart-button.php)
 - [Change the text on the Add-To-Cart-Button](/woocommerce/php/wc-change-add-to-cart-text-on-button.php)
+- [Disable Ajax Cart Fragments](/woocommerce/php/wc-disable-ajax-cart-fragments.php)
+- [Disable the password strength meter](/woocommerce/php/wc-disable-password-strength-meter.php)
 
 #### 1.2.2. Product Detail Page
 
