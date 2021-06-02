@@ -23,6 +23,7 @@ This Repository is a collection of code snippets for Wordpress and its plugins.
 #### 1.2.2. Product Detail Page
 
 - [Remove links from the thumbnail image on the single product page](/woocommerce/php/wc-remove-links-from-single-product-image-thumbnails.php)
+- [Redirect customers who purchased the product to a specific page](/woocommerce/php/wc-redirect-customers-who-purchased-the-product.php)
 
 #### 1.2.3 Cart
 
@@ -37,7 +38,16 @@ This Repository is a collection of code snippets for Wordpress and its plugins.
 - [Delete the additional order information field on the checkout page](/woocommerce/php/wc-delete-additional-order-informations.php)
 - [Remove the "What is PayPal?" notice on the checkout page](/woocommerce/php/wc-remove-what-is-paypal.php)
 
-#### 1.2.5. Shortcodes
+#### 1.2.5. Thank You Page
+
+- [Change the order received text on the thank you page](/woocommerce/php/wc-thankyou-change-order-received-text.php)
+- [Change the title on the thank you page](/woocommerce/php/wc-thankyou-change-title.php)
+
+#### 1.2.6. Emails
+
+- [Disable Customer Order Emails for a specific product](/woocommerce/php/wc-disable-customer-order-emails-for-a-specific-product.php)
+
+#### 1.2.7. Shortcodes
 
 - [Add a shortcode to display the product name](/woocommerce/php/wc-shortcode-display-product-name.php)
 - [Add a shortcode to display the product price](/woocommerce/php/wc-shortcode-display-product-price.php)
