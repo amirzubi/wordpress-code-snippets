@@ -19,6 +19,7 @@ This Repository contains a collection of code snippets for Wordpress and its plu
 - [Change the text on the Add-To-Cart-Button](/woocommerce/php/wc-change-add-to-cart-text-on-button.php)
 - [Disable Ajax Cart Fragments](/woocommerce/php/wc-disable-ajax-cart-fragments.php)
 - [Disable the password strength meter](/woocommerce/php/wc-disable-password-strength-meter.php)
+- [Change rel=nofollow to rel=dofollow for Add-To-Cart-Buttons](/woocommerce/php/wc-change-rel-nofollow.php)
 
 #### 1.2.2. Product Detail Page
 
