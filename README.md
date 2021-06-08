@@ -45,7 +45,11 @@ This Repository contains a collection of code snippets for Wordpress and its plu
 - [Change the order received text on the thank you page](/woocommerce/php/wc-thankyou-change-order-received-text.php)
 - [Change the title on the thank you page](/woocommerce/php/wc-thankyou-change-title.php)
 
-#### 1.2.6. Emails
+#### 1.2.6. Accounts
+
+- [Link Guest order to Existing Customer, if account already exists](/woocommerce/php/wc-link-guest-order-to-existing-customer.php)
+
+#### 1.2.7. Emails
 
 - [Disable Customer Order Emails for a specific product](/woocommerce/php/wc-disable-customer-order-emails-for-a-specific-product.php)
 
