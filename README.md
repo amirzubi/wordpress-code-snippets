@@ -10,6 +10,7 @@ This Repository contains a collection of code snippets for Wordpress and its plu
 - [Change wp-admin logo](/wordpress/php/wp-change-wp-admin-logo.php)
 - [Disable admin bar for all users](/wordpress/php/wp-disable-admin-bar-for-all-users.php)
 - [Disable GetLocation on specific pages](/wordpress/php/wp-disable-getlocation.php)
+- [Disable Image Links (a tag)](/wordpress/php/wp-disable-image-links.php)
 
 ### 1.2. Woocommerce
 
