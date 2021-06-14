@@ -22,17 +22,21 @@ This Repository contains a collection of code snippets for Wordpress and its plu
 - [Disable the password strength meter](/woocommerce/php/wc-disable-password-strength-meter.php)
 - [Change rel=nofollow to rel=dofollow for Add-To-Cart-Buttons](/woocommerce/php/wc-change-rel-nofollow.php)
 
-#### 1.2.2. Product Detail Page
+#### 1.2.2. Shop
+
+- [Add sold out badge to shop product loop](/woocommerce/php/wc-add-sold-out-badge.php)
+
+#### 1.2.3. Product Detail Page
 
 - [Remove links from the thumbnail image on the single product page](/woocommerce/php/wc-remove-links-from-single-product-image-thumbnails.php)
 - [Redirect customers who purchased the product to a specific page](/woocommerce/php/wc-redirect-customers-who-purchased-the-product.php)
 
-#### 1.2.3 Cart
+#### 1.2.4. Cart
 
 - [Amount left for free shipping notice in the cart](/woocommerce/php/wc-amount-left-for-free-shipping-notice.php)
 - [Remove subtotal on the cart page](/woocommerce/php/wc-remove-subtotal.php)
 
-#### 1.2.4. Checkout
+#### 1.2.5. Checkout
 
 - [Add the email-field on first place on the checkout page](/woocommerce/php/wc-checkout-email-on-first_place.php)
 - [Inline, remove or change fields on the checkout page](/woocommerce/php/wc-checkout-inline-fields-remove-fields-change-placeholder.php)
@@ -40,20 +44,20 @@ This Repository contains a collection of code snippets for Wordpress and its plu
 - [Delete the additional order information field on the checkout page](/woocommerce/php/wc-delete-additional-order-informations.php)
 - [Remove the "What is PayPal?" notice on the checkout page](/woocommerce/php/wc-remove-what-is-paypal.php)
 
-#### 1.2.5. Thank You Page
+#### 1.2.6. Thank You Page
 
 - [Change the order received text on the thank you page](/woocommerce/php/wc-thankyou-change-order-received-text.php)
 - [Change the title on the thank you page](/woocommerce/php/wc-thankyou-change-title.php)
 
-#### 1.2.6. Accounts
+#### 1.2.7. Accounts
 
 - [Link Guest order to Existing Customer, if account already exists](/woocommerce/php/wc-link-guest-order-to-existing-customer.php)
 
-#### 1.2.7. Emails
+#### 1.2.8. Emails
 
 - [Disable Customer Order Emails for a specific product](/woocommerce/php/wc-disable-customer-order-emails-for-a-specific-product.php)
 
-#### 1.2.7. Shortcodes
+#### 1.2.9. Shortcodes
 
 - [Add a shortcode to display the product name](/woocommerce/php/wc-shortcode-display-product-name.php)
 - [Add a shortcode to display the product price](/woocommerce/php/wc-shortcode-display-product-price.php)
