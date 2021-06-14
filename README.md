@@ -25,6 +25,7 @@ This Repository contains a collection of code snippets for Wordpress and its plu
 #### 1.2.2. Shop
 
 - [Add sold out badge to shop product loop](/woocommerce/php/wc-add-sold-out-badge.php)
+- [Hide Add-to-cart-button on shop product loop](/woocommerce/php/wc-shop-hide-add-to-cart-button.php)
 
 #### 1.2.3. Product Detail Page
 
