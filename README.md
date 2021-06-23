@@ -1,16 +1,23 @@
-# Wordpress Code Snippets
+# WordPress Code Snippets
 
-This Repository contains a collection of code snippets for Wordpress and its plugins.
+This Repository contains a collection of code snippets for WordPress and its plugins.
 
 ## 1. Categories
 
-### 1.1. Wordpress
+### 1.1. WordPress
 
-- [Add translations](/wordpress/php/wp-translations.php)
-- [Change wp-admin logo](/wordpress/php/wp-change-wp-admin-logo.php)
+#### 1.1.1. Disable WordPress Features & Functions
+
 - [Disable admin bar for all users](/wordpress/php/wp-disable-admin-bar-for-all-users.php)
 - [Disable GetLocation on specific pages](/wordpress/php/wp-disable-getlocation.php)
 - [Disable image links (a tag)](/wordpress/php/wp-disable-image-links.php)
+- [Disable WordPress search](/wordpress/php/wp-disable-search.php)
+
+#### 1.1.2. Add Features & Functions
+
+- [Add translations](/wordpress/php/wp-translations.php)
+- [Change wp-admin logo](/wordpress/php/wp-change-wp-admin-logo.php)
+- [Add shortcodes to widgets](/wordpress/php/wp-add-shortcodes-to-widgets.php)
 
 ### 1.2. Woocommerce
 
@@ -67,6 +74,10 @@ This Repository contains a collection of code snippets for Wordpress and its plu
 ### 1.3. Elementor
 
 - [Change the date format in elementor forms](/elementor/php/elementor-form-date-format.php)
+
+### 1.4. Jetpack
+
+- [Disable Jetpack CSS](/jetpack/php/jetpack-disable-css.php)
 
 ## 2. Usage
 
