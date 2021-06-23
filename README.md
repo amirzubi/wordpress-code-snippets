@@ -1,4 +1,6 @@
-# WordPress Code Snippets
+[![Stake to support us](https://badge.devprotocol.xyz/0x9110f25B4B3f73b7E886c8C3aaAcF6e4Cb49564c/descriptive)](https://stakes.social/0x9110f25B4B3f73b7E886c8C3aaAcF6e4Cb49564c)
+
+# Wordpress Code Snippets
 
 This Repository contains a collection of code snippets for WordPress and its plugins.
 
