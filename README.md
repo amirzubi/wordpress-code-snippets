@@ -84,7 +84,7 @@ This Repository contains a collection of code snippets for WordPress and its plu
 
 ## 2. Usage
 
-Add the PHP-Code to your functions.php file in your child-theme or download the plugin [Code Snippets](https://de.wordpress.org/plugins/code-snippets/) and add it in there. Make sure you delete the PHP opening and closing tag if you choose the plugin.
+Add the PHP-Code to your functions.php file in your child-theme or download the plugin [Code Snippets](https://de.wordpress.org/plugins/code-snippets/) and add it in there. Make sure you delete the PHP opening and closing tag if they are already available in the file.
 
 ## 3. Contributing
 
