@@ -20,10 +20,6 @@ function custom_shop_page_add_to_cart( $button_text, $product ) {
     }
 }
 
- 
-
- 
-
 add_filter( 'woocommerce_product_single_add_to_cart_text', 'custom_add_to_cart_price', 100, 2 ); // Single product pages
 function custom_add_to_cart_price( $button_text, $product ) {
     // Variable products
