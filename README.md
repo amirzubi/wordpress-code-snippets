@@ -76,6 +76,15 @@ This Repository contains a collection of code snippets for WordPress and its plu
 
 ### 1.3. Elementor
 
+#### 1.3.1. Disable Elementor Features & Functions
+
+- [Disable Google Fonts](/elementor/php/elementor-disable-google-fonts.php)
+- [Disable Font Awesome](/elementor/php/elementor-disable-font-awesome.php)
+- [Disable Eicons](/elementor/php/elementor-disable-eicons.php)
+- [Disable Page Titles on all Pages](/elementor/php/elementor-disable-page-titles.php)
+
+#### 1.3.2. Modify Elementor Features & Functions
+
 - [Change the Date Format in Elementor Forms](/elementor/php/elementor-form-date-format.php)
 
 ### 1.4. Jetpack
