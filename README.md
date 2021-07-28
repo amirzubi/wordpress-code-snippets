@@ -6,11 +6,11 @@ This Repository contains a collection of code snippets for WordPress and its plu
 
 # Categories
 
-Navigate through the categories here:
-<strong>
-[1. Wordpress](#wordpress)
-[2. Woocommerce](#woocommerce)
-[3. Elementor](#elementor)
+Navigate through the categories here:<br>
+<strong><br>
+[1. Wordpress](#wordpress)<br>
+[2. Woocommerce](#woocommerce)<br>
+[3. Elementor](#elementor)<br>
 [4. Jetpack](#jetpack)
 </strong>
 
