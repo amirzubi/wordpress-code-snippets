@@ -33,7 +33,7 @@ Navigate through the categories here:<br>
 ### Blog
 
 - [Show Ads between Blog Post Paragraphs](/wordpress/php/wp-show-ads-between-blog-post-paragraphs.php)
-- [Show Related Blog Posts](/wp-show-related-blog-posts.php)
+- [Show Related Blog Posts](/wordpress/php/wp-show-related-blog-posts.php)
 
 ## Woocommerce
 
