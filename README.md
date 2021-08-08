@@ -3,7 +3,7 @@
 
 # Wordpress Code Snippets
 
-This Repository contains a collection of code snippets for WordPress and its plugins.
+This Repository contains a collection of code snippets for WordPress and its plugins. All snippets are written in PHP (Hypertext Preprocessor). The main goal of those snippets is to add, delete or modify functions from WordPress or one of its plugins.
 
 # Categories
 
