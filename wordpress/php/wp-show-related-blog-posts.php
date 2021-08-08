@@ -59,10 +59,10 @@ wp_reset_postdata();
 }
 endif;
 
-// 2. Add the following line to your single.php file
+// 2. Add the following line to your post loop file, which should be single.php in most cases
 <?php related_posts(); ?>
 
-// 3. Add the following to your CSS
+// 3. Add the following lines to your CSS
 .related-posts {
     display: flex;
 }
