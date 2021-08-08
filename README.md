@@ -26,34 +26,35 @@ Navigate through the categories here:<br>
 
 ### Add Features & Functions
 
+- [Add Shortcodes to Widgets](/wordpress/php/wp-add-shortcodes-to-widgets.php)
 - [Add Translations](/wordpress/php/wp-translations.php)
 - [Change WP-Admin Logo](/wordpress/php/wp-change-wp-admin-logo.php)
-- [Add Shortcodes to Widgets](/wordpress/php/wp-add-shortcodes-to-widgets.php)
 
 ### Blog
 
 - [Show Ads between Blog Post Paragraphs](/wordpress/php/wp-show-ads-between-blog-post-paragraphs.php)
+- [Show Related Blog Posts](/wp-show-related-blog-posts.php)
 
 ## Woocommerce
 
 ### General
 
 - [Add Price to the Add-To-Cart-Button](/woocommerce/php/wc-add-price-to-add-to-cart-button.php)
+- [Change rel=nofollow to rel=dofollow for Add-To-Cart-Buttons](/woocommerce/php/wc-change-rel-nofollow.php)
 - [Change the Text on the Add-To-Cart-Button](/woocommerce/php/wc-change-add-to-cart-text-on-button.php)
 - [Disable Ajax Cart Fragments](/woocommerce/php/wc-disable-ajax-cart-fragments.php)
 - [Disable the Password Strength Meter](/woocommerce/php/wc-disable-password-strength-meter.php)
-- [Change rel=nofollow to rel=dofollow for Add-To-Cart-Buttons](/woocommerce/php/wc-change-rel-nofollow.php)
 
 ### Shop
 
 - [Add Sold Out Badge to Shop Product Loop](/woocommerce/php/wc-add-sold-out-badge.php)
-- [Hide Add-to-Cart-Button on Shop Product Loop](/woocommerce/php/wc-shop-hide-add-to-cart-button.php)
 - [Define Numbers of Products Displayed per Page](/woocommerce/php/wc-define-numbers-of-products-displayed-per-page.php)
+- [Hide Add-to-Cart-Button on Shop Product Loop](/woocommerce/php/wc-shop-hide-add-to-cart-button.php)
 
 ### Product Detail Page
 
-- [Remove Links from the Thumbnail Image on the Single Product Page](/woocommerce/php/wc-remove-links-from-single-product-image-thumbnails.php)
 - [Redirect Customers who Purchased the Product to a Specific Page](/woocommerce/php/wc-redirect-customers-who-purchased-the-product.php)
+- [Remove Links from the Thumbnail Image on the Single Product Page](/woocommerce/php/wc-remove-links-from-single-product-image-thumbnails.php)
 
 ### Cart
 
@@ -63,9 +64,9 @@ Navigate through the categories here:<br>
 ### Checkout
 
 - [Add the Email-Field on First Place on the Checkout Page](/woocommerce/php/wc-checkout-email-on-first_place.php)
-- [Inline, Remove or Change Fields on the Checkout Page](/woocommerce/php/wc-checkout-inline-fields-remove-fields-change-placeholder.php)
 - [Auto Check Checkboxes on the Checkout Page](/woocommerce/php/wc-checkout-auto-check-checkboxes.php)
 - [Delete the Additional Order Information Field on the Checkout Page](/woocommerce/php/wc-delete-additional-order-informations.php)
+- [Inline, Remove or Change Fields on the Checkout Page](/woocommerce/php/wc-checkout-inline-fields-remove-fields-change-placeholder.php)
 - [Remove the "What is PayPal?" Notice on the Checkout Page](/woocommerce/php/wc-remove-what-is-paypal.php)
 
 ### Thank You Page
@@ -91,9 +92,9 @@ Navigate through the categories here:<br>
 
 ### Disable Elementor Features & Functions
 
-- [Disable Google Fonts](/elementor/php/elementor-disable-google-fonts.php)
-- [Disable Font Awesome](/elementor/php/elementor-disable-font-awesome.php)
 - [Disable Eicons](/elementor/php/elementor-disable-eicons.php)
+- [Disable Font Awesome](/elementor/php/elementor-disable-font-awesome.php)
+- [Disable Google Fonts](/elementor/php/elementor-disable-google-fonts.php)
 - [Disable Page Titles on all Pages](/elementor/php/elementor-disable-page-titles.php)
 
 ### Modify Elementor Features & Functions
@@ -119,4 +120,5 @@ Please make sure to update tests as appropriate.
 This repository is a collection of different kind of code snippets for wordpress and its plugins. Some of them are coded by the author himself and some are taken from external sources. The external sources are listed down below.
 
 - [Business Bloomer](https://www.businessbloomer.com/)
+- [Drweb](https://www.drweb.de/wordpress-snippets/)
 - [Webdeasy](https://webdeasy.de/wordpress-code-snippets)
