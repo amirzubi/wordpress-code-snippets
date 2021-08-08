@@ -30,6 +30,10 @@ Navigate through the categories here:<br>
 - [Change WP-Admin Logo](/wordpress/php/wp-change-wp-admin-logo.php)
 - [Add Shortcodes to Widgets](/wordpress/php/wp-add-shortcodes-to-widgets.php)
 
+### Blog
+
+- [Show Ads between Blog Post Paragraphs](/wordpress/php/wp-show-ads-between-blog-post-paragraphs.php)
+
 ## Woocommerce
 
 ### General
@@ -109,3 +113,10 @@ Add the PHP-Code to your functions.php file in your child-theme or download the 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+# Credits
+
+This repository is a collection of different kind of code snippets for wordpress and its plugins. Some of them are coded by the author himself and some are taken from external sources. The external sources are listed down below.
+
+- [Business Bloomer](https://www.businessbloomer.com/)
+- [Webdeasy](https://webdeasy.de/wordpress-code-snippets)
