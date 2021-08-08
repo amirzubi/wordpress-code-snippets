@@ -120,5 +120,5 @@ Please make sure to update tests as appropriate.
 This repository is a collection of different kind of code snippets for wordpress and its plugins. Some of them are coded by the author himself and some are taken from external sources. The external sources are listed down below.
 
 - [Business Bloomer](https://www.businessbloomer.com/)
-- [Drweb](https://www.drweb.de/wordpress-snippets/)
+- [Dr. Web](https://www.drweb.de/wordpress-snippets/)
 - [Webdeasy](https://webdeasy.de/wordpress-code-snippets)
