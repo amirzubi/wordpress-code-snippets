@@ -29,7 +29,7 @@ Navigate through the categories here:<br>
 - [Add Shortcodes to Widgets](/wordpress/php/wp-add-shortcodes-to-widgets.php)
 - [Add Translations](/wordpress/php/wp-translations.php)
 - [Change WP-Admin Logo](/wordpress/php/wp-change-wp-admin-logo.php)
-- [Light Weight Cookie Banner](/wordpress/php/wp-light-weight-cookie-banner)
+- [Light Weight Cookie Banner](/wordpress/php/wp-light-weight-cookie-banner.php)
 
 ### Blog
 
